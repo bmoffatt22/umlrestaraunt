@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "test": "jest --watchAll",
+    "test:coverage": "jest --coverage=true"
+  },
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
+  "name": "swe-restaraunts",
+  "version": "1.0.0",
+  "main": "models.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
